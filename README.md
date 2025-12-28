@@ -15,7 +15,7 @@ A Computer Science Student from Bangladesh
 ### 
 <img src="https://nirzak-streak-stats.vercel.app/?user=rajee99&theme=dark-smoky&hide_border=false" />
 
-### Reach out : maybe we’ll solve a problem together🧠
+### Reach out: maybe we’ll solve a problem together🧠
 <a href="https://www.linkedin.com/in/al-rajee05/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
